@@ -15,6 +15,7 @@ I'm passionate about building reliable, maintainable software and solving comple
 
 - Building a scalable data bridging solution at Fidelity using Spring Boot and Kafka, featuring dynamic schema handling and database-driven configuration
 - [KineticAI](https://github.com/aidengindin/KineticAI): A platform for advanced ML-based analytics of endurance sports data
+- Maintaning & expanding my NixOS-based [homelab](https://github.com/aidengindin/nixos-config)
 
 ## Connect with me
 
