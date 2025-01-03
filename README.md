@@ -18,7 +18,7 @@ I'm passionate about building reliable, maintainable software and solving comple
 
 ## Connect with me
 
-- [Email](mailto:aiden@aidengindin.com).
+- [Email](mailto:aiden@aidengindin.com)
 - [LinkedIn](https://www.linkedin.com/in/aidengindin/)
 
 <!--
